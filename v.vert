@@ -17,5 +17,5 @@ void main() {
     fTex = a_texCoord;
 
 	
-   gl_Position = vec4(a_position, 0.0f, 1);
+   gl_Position = vec4(a_position, 0.0, 1);
 }
